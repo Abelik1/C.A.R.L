@@ -1,0 +1,8 @@
+behaviors:
+  MoveToGoal:
+    network_settings:
+      hidden_units: 128
+      num_layers: 3
+    max_steps: 0
+
+
